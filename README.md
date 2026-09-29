@@ -1,2 +1,5 @@
 # 1t-barrage
-Barrage plain-language clone of fitzyracing1/1t
+
+Barrage clone of [fitzyracing1/1t](https://github.com/fitzyracing1/1t).
+
+Read [listing.barrage](listing.barrage).
